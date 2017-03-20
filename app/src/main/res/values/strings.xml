@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Dólar Hoje</string>
+    <string name="add_widget" translatable="false">Adicionar widget</string>
+    <string name="dolar" translatable="false">Preço:</string>
+    <string name="taxa" translatable="false">Taxa:</string>
+    <string name="data" translatable="false">Data de Fechamento:</string>
+    <string name="taxa_compra" translatable="false">Taxa de Compra:</string>
+    <string name="taxa_venda" translatable="false">Taxa de Venda:</string>
+    <string name="nulo" translatable="false">-</string>
+    <string name="Fonte" translatable="false">Fonte: Banco Central do Brasil</string>
+    <string name="configure" translatable="false">Selecione a moeda:</string>
+    <string name="config">config</string>
+    <string name="value_null">-</string>
+    <string-array name="moedas">
+        <item>Coroa Dinamarquesa</item>
+        <item>Coroa Norueguesa</item>
+        <item>Coroa Sueca</item>
+        <item>Dólar Americano</item>
+        <item>Dólar Australiano</item>
+        <item>Dólar Canadense</item>
+        <item>Euro</item>
+        <item>Franco Suíço</item>
+        <item>Iene</item>
+        <item>Libra Esterlina</item>
+    </string-array>
+</resources>

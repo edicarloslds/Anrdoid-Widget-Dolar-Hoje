@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="250dp" android:minHeight="110dp"
+    android:updatePeriodMillis="1800000"
+    android:previewImage="@drawable/appwidget_preview"
+    android:initialLayout="@layout/dolar_app_widget"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen"
+    android:configure="br.com.power.dolarhoje.DolarAppWidgetConfig"
+    android:initialKeyguardLayout="@layout/dolar_app_widget"/>
