@@ -2,9 +2,7 @@
 
 Android APP que exibe as taxas de câmbio (compra e venda).
 
-![](https://lh3.googleusercontent.com/RfkFnf4VNQmNetfcjo5wtSKiKXKsSKyaQYwfzVMrQF6VicWEYaE4zganaCDMJfoMYd0=h900)
-
-
+<img src="https://lh3.googleusercontent.com/RfkFnf4VNQmNetfcjo5wtSKiKXKsSKyaQYwfzVMrQF6VicWEYaE4zganaCDMJfoMYd0=h900" height="500" width="250" >
 
 **Fonte dos dados:**
 Banco Central do Brasil
